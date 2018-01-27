@@ -1,4 +1,4 @@
-package me.adegokeobasa.dsinjava.cotty;
+package me.adegokeobasa.dsinjava.codility;
 
 import java.util.Arrays;
 
