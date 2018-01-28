@@ -1,4 +1,4 @@
-package me.adegokeobasa.dsinjava.codility;
+package me.adegokeobasa.dsinjava.codility.lessontwo;
 
 /**
  * Created by epapa on 27/01/2018.

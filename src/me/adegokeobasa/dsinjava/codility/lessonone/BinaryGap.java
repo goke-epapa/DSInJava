@@ -1,4 +1,4 @@
-package me.adegokeobasa.dsinjava.codility;
+package me.adegokeobasa.dsinjava.codility.lessonone;
 
 /**
  * Codility Question - https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
