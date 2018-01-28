@@ -9,6 +9,11 @@ public class TapeEquilibrium {
         System.out.println(new TapeEquilibrium().solution(new int[]{-1000, 1000}));
     }
 
+    /**
+     * Time Complexity - O(N)
+     * @param A
+     * @return
+     */
     public int solution(int[] A) {
         if (A.length == 2) {
             return Math.abs(A[0] - A[1]);
